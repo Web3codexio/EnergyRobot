@@ -19,6 +19,9 @@
 * 单地址对应专属通知机器人，支持群/频道通知，可同步至多个群组。
 * 支持自定义挂载多条消息底部按钮。
 
+<img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%95%8C%E9%9D%A2.png" width="45%">
+
+
 ### 🔋 能量闪租（单笔最高50T，发送130W，100%成功）
 ➡️ 2 TRX = 65000（含1次免费转账）
 
@@ -33,9 +36,10 @@
 | 6个月   | 16.9  | 
 | 12个月  | 29.9  | 
 
-<img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%95%8C%E9%9D%A2.png" width="45%">
+
 ### 🔥 [能量转租，自有收款地址，价格自定义]
-* 能量转租/会员代开：有服务器可自行部署，无服务器可 👉 [自助开通](https://t.me/greatEnergybot)
+* 能量转租/会员代开：有服务器可自行部署，无服务器可 👉[点击体验](https://t.me/greatEnergybot)
+
 
 <img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E9%A3%9E%E6%9C%BA%E7%BE%A4%E9%80%9A%E7%9F%A5.png" width="45%">
 
