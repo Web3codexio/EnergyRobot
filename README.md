@@ -26,7 +26,7 @@
 ### 🤝 波场能量API/笔数API/能量速充API 🔋
 * 提供API接口，调用即可发送能量至指定TRC20地址，无需自行质押TRX（低至1.8TRX=65000）。
 * 支持能量速充，适合已有基础能量用户快速补满未恢复能量。
-* 接口文档详询客服 [https://t.me/wujispowerss](https://t.me/wujispowerss)
+* 接口文档详询客服 👉 [https://t.me/wujispowerss](https://t.me/wujispowerss)
 
 ### 🔋 能量闪租（单笔最高50T，发送130W，100%成功）
 ➡️ 2 TRX = 65000（含1次免费转账）
