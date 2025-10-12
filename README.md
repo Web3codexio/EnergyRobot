@@ -1,12 +1,12 @@
 # 168聚合能量机器人
 
 支持后台管理、代理系统、群通知 自助兑币/能量租赁/会员代开、自定义利润率
+<img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%95%8C%E9%9D%A2.png" width="80%" height="70%">
 
-<img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E7%9B%91%E5%90%AC%E5%85%85%E6%8F%90.png" width="45%">
 
 ### 波场TRON能量租赁机器人、TRX自助兑换、能量转账API、地址激活、能量速充、飞机会员及API等一站式解决方案。
 
-<img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%95%8C%E9%9D%A2.png" width="45%">
+<img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E7%9B%91%E5%90%AC%E5%85%85%E6%8F%90.png" width="45%">
 
 * Go语言轻量实现，跨平台支持，高并发处理。
 * 私有化部署便捷，一行命令即可完成。
