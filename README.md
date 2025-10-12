@@ -2,6 +2,8 @@
 
 支持后台管理、代理系统、群通知 自助兑币/能量租赁/会员代开、自定义利润率
 
+<img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E7%9B%91%E5%90%AC%E5%85%85%E6%8F%90.png" width="45%">
+
 ### 波场TRON能量租赁机器人、TRX自助兑换、能量转账API、地址激活、能量速充、飞机会员及API等一站式解决方案。
 
 <img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%95%8C%E9%9D%A2.png" width="45%">
@@ -18,13 +20,13 @@
 <img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%A4%8D.png" width="45%">
 
 ### 🔥 [能量转租，自有收款地址，价格自定义]
-* 能量转租/会员代开：有服务器可自行部署（参考教程 👉 [教程](./INSTALL.md)），无服务器可 👉 [自助开通](https://t.me/greatEnergybot)。
+* 能量转租/会员代开：有服务器可自行部署，无服务器可 👉 [自助开通](https://t.me/greatEnergybot)。
 
 <img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E9%A3%9E%E6%9C%BA%E7%BE%A4%E9%80%9A%E7%9F%A5.png" width="45%">
 ### 🤝 波场能量API/笔数API/能量速充API 🔋
 * 提供API接口，调用即可发送能量至指定TRC20地址，无需自行质押TRX（低至1.8TRX=65000）。
 * 支持能量速充，适合已有基础能量用户快速补满未恢复能量。
-* 接口文档详询客服 [https://t.me/wujispowerss](https://t.me/wujispowerss)。
+* 接口文档详询客服:👉[https://t.me/wujispowerss](https://t.me/wujispowerss)。
 
 ### 🔋 能量闪租（单笔最高50T，发送130W，100%成功）
 ➡️ 2 TRX = 65000（含1次免费转账）
@@ -36,9 +38,9 @@
 
 | 时长  | 价格 |
 |:-----:|:-----:|
-| 3个月   | 12.5  | 
-| 6个月   | 16.5  | 
-| 12个月  | 29.5  | 
+| 3个月   | 12.9  | 
+| 6个月   | 16.9  | 
+| 12个月  | 29.9  | 
 
 ### 🌈 更多区块链WEB3、NFT智能合约开发
-* [https://t.me/wujispowerss](https://t.me/wujispowerss)。
+* 👉[https://t.me/wujispowerss](https://t.me/wujispowerss)。
