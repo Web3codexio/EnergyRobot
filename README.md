@@ -35,9 +35,10 @@
 
 <img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%95%8C%E9%9D%A2.png" width="45%">
 ### 🔥 [能量转租，自有收款地址，价格自定义]
-* 能量转租/会员代开：有服务器可自行部署，无服务器可 👉 [自助开通](https://t.me/greatEnergybot)。
+* 能量转租/会员代开：有服务器可自行部署，无服务器可 👉[自助开通](https://t.me/greatEnergybot)
 
 <img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E9%A3%9E%E6%9C%BA%E7%BE%A4%E9%80%9A%E7%9F%A5.png" width="45%">
+
 ### 🤝 波场能量API/笔数API/能量速充API 🔋
 * 提供API接口，调用即可发送能量至指定TRC20地址，无需自行质押TRX（低至1.8TRX=65000）。
 * 支持能量速充，适合已有基础能量用户快速补满未恢复能量。
