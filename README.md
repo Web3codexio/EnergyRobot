@@ -10,6 +10,15 @@
 
 <img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E7%9B%91%E5%90%AC%E5%85%85%E6%8F%90.png" width="45%">
 
+* Go语言轻量实现，跨平台支持，高并发处理。
+* 私有化部署便捷，一行命令即可完成。
+* 能量租赁与TRX兑换二合一，支持归集、速充、激活、托管及笔数管理。点击体验 👉 [https://t.me/greatEnergybot](https://t.me/greatEnergybot)
+* 无需机器人交互，客户只需知晓收款地址：转U即回TRX（可选），转TRX即回能量。
+* 支持自定义能量发送条件，多条件配置灵活可调（详见配置文件）。
+* 可无限添加转租地址，便于拓展业务。
+* 单地址对应专属通知机器人，支持群/频道通知，可同步至多个群组。
+* 支持自定义挂载多条消息底部按钮。
+
 ### 🔋 能量闪租（单笔最高50T，发送130W，100%成功）
 ➡️ 2 TRX = 65000（含1次免费转账）
 
@@ -24,15 +33,7 @@
 | 6个月   | 16.9  | 
 | 12个月  | 29.9  | 
 
-* Go语言轻量实现，跨平台支持，高并发处理。
-* 私有化部署便捷，一行命令即可完成。
-* 能量租赁与TRX兑换二合一，支持归集、速充、激活、托管及笔数管理。点击体验 👉 [https://t.me/greatEnergybot](https://t.me/greatEnergybot)
-* 无需机器人交互，客户只需知晓收款地址：转U即回TRX（可选），转TRX即回能量。
-* 支持自定义能量发送条件，多条件配置灵活可调（详见配置文件）。
-* 可无限添加转租地址，便于拓展业务。
-* 单地址对应专属通知机器人，支持群/频道通知，可同步至多个群组。
-* 支持自定义挂载多条消息底部按钮。
-<img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%95%8C%E9%9D%A2.png" width="45% >
+<img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%95%8C%E9%9D%A2.png" width="45%">
 ### 🔥 [能量转租，自有收款地址，价格自定义]
 * 能量转租/会员代开：有服务器可自行部署，无服务器可 👉 [自助开通](https://t.me/greatEnergybot)。
 
