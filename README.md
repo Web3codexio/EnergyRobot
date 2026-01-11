@@ -12,7 +12,7 @@
 
 * Go语言轻量实现，跨平台支持，高并发处理。
 * 私有化部署便捷，一行命令即可完成。
-* 能量租赁与TRX兑换二合一，支持归集、速充、激活、托管及笔数管理。点击体验 👉 [https://t.me/greatEnergybot](https://t.me/greatEnergybot)
+* 能量租赁与TRX兑换二合一，支持归集、速充、激活、托管及笔数管理。点击体验 👉 [https://t.me/longWorkBot](https://t.me/longWorkBot)
 * 无需机器人交互，客户只需知晓收款地址：转U即回TRX（可选），转TRX即回能量。
 * 支持自定义能量发送条件，多条件配置灵活可调（详见配置文件）。
 * 可无限添加转租地址，便于拓展业务。
@@ -38,7 +38,7 @@
 
 
 ### 🔥 [能量转租，自有收款地址，价格自定义]
-* 能量转租/会员代开：有服务器可自行部署，无服务器可 👉[点击体验](https://t.me/greatEnergybot)
+* 能量转租/会员代开：有服务器可自行部署，无服务器可 👉[点击体验][https://t.me/longWorkBot](https://t.me/longWorkBot)
 
 
 <img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E9%A3%9E%E6%9C%BA%E7%BE%A4%E9%80%9A%E7%9F%A5.png" width="45%">
@@ -46,8 +46,8 @@
 ### 🤝 波场能量API/笔数API/能量速充API 🔋
 * 提供API接口，调用即可发送能量至指定TRC20地址，无需自行质押TRX（低至1.8TRX=65000）。
 * 支持能量速充，适合已有基础能量用户快速补满未恢复能量。
-* 接口文档详询客服 👉 [https://t.me/wujispowerss](https://t.me/wujispowerss)
+* 接口文档详询客服 👉 [https://t.me/eagleshat](https://t.me/eagleshat)。
 
 
 ### 🌈 更多区块链WEB3、NFT智能合约开发
-*👉联系:[https://t.me/wujispowerss](https://t.me/wujispowerss)。
+*👉联系:[https://t.me/eagleshat](https://t.me/eagleshat)。
