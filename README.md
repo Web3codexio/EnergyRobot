@@ -5,7 +5,7 @@
 <img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%A4%8D.png" width="75%" height="65%">
 
 
-### 波场TRON能量租赁机器人、TRX自助兑换、能量转账API、地址激活、能量速充、飞机会员及API等一站式解决方案。点击体验 👉 [https://t.me/greatEnergybot](https://t.me/greatEnergybot)
+### 波场TRON能量租赁机器人、TRX自助兑换、能量转账API、地址激活、能量速充、飞机会员及API等一站式解决方案。点击体验 👉[https://t.me/longWorkBot](https://t.me/longWorkBot)
 
 
 <img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E7%9B%91%E5%90%AC%E5%85%85%E6%8F%90.png" width="45%">
