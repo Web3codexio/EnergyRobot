@@ -12,7 +12,7 @@
 
 * Go语言轻量实现，跨平台支持，高并发处理。
 * 私有化部署便捷，一行命令即可完成。
-* 能量租赁与TRX兑换二合一，支持归集、速充、激活、托管及笔数管理。点击体验 👉 [https://t.me/longWorkBot](https://t.me/oneSixEightbestbot)
+* 能量租赁与TRX兑换二合一，支持归集、速充、激活、托管及笔数管理。点击体验 👉 [https://t.me/oneSixEightbestbot](https://t.me/oneSixEightbestbot)
 * 无需机器人交互，客户只需知晓收款地址：转U即回TRX（可选），转TRX即回能量。
 * 支持自定义能量发送条件，多条件配置灵活可调（详见配置文件）。
 * 可无限添加转租地址，便于拓展业务。
