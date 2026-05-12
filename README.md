@@ -46,8 +46,8 @@
 ### 🤝 波场能量API/笔数API/能量速充API 🔋
 * 提供API接口，调用即可发送能量至指定TRC20地址，无需自行质押TRX（低至1.8TRX=65000）。
 * 支持能量速充，适合已有基础能量用户快速补满未恢复能量。
-* 接口文档详询客服 👉 [https://t.me/eagleshat](https://t.me/eagleshat)。
+* 接口文档详询客服 👉 [https://t.me/kevinsWeb3acc](https://t.me/kevinsWeb3acc)。
 
 
 ### 🌈 更多区块链WEB3、NFT智能合约开发
-*👉联系:[https://t.me/eagleshat](https://t.me/eagleshat)。
+*👉联系:[https://t.me/kevinsWeb3acc](https://t.me/kevinsWeb3acc)。
