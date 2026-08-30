@@ -1,7 +1,11 @@
 # 哆啦波场能量机器人
 
 支持后台管理、代理系统、群通知 自助兑币/能量租赁/会员代开、自定义利润率
+
 <img src="https://raw.githubusercontent.com/Web3codexio/EnergyRobot/refs/heads/main/tg%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%88%AA%E5%9B%BE-2.png" width="85%">
+
+<img src="https://raw.githubusercontent.com/Web3codexio/EnergyRobot/refs/heads/main/tg%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%88%AA%E5%9B%BE-3.png" width="85%">
+
 <img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%A4%8D.png" width="75%" height="65%">
 
 👌🏿能量租用：自动到账能量
@@ -19,6 +23,7 @@
 * 可无限添加转租地址，便于拓展业务。
 * 单地址对应专属通知机器人，支持群/频道通知，可同步至多个群组。
 * 支持自定义挂载多条消息底部按钮。
+* 
 <img src="https://github.com/Francisundermoon/EnergyRobot/blob/main/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%95%8C%E9%9D%A2.png" width="75%">
 
 ### 🔋 能量闪租（单笔最高50T，发送130W，100%成功）
@@ -26,6 +31,7 @@
 ➡️2.4 TRX = 131000（含2次免费转账）
 
 <img src="https://raw.githubusercontent.com/Web3codexio/EnergyRobot/refs/heads/main/tg%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%88%AA%E5%9B%BE-3.png" width="45%">
+
 ### 🎁 Telegram Premium 会员（提供API）
 
 | 时长  | 价格 |
